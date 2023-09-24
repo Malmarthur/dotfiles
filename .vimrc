@@ -1,4 +1,4 @@
-" Krezerox's .vimrc
+" Malmarthur's .vimrc
 " greatly inspired by Chewie's at https://github.com/chewie/dotfiles
 " as well as prrlvr's at https://github.com/prrlvr/dotfiles
 
